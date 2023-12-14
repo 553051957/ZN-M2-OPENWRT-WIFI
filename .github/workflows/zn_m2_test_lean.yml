@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/Zyilin98/openwrt-gl-ax1800.git
+  REPO_URL: https://github.com/Leo357449107/qsdk_cmiot-ax6/tree/qsdk_12.0.5.R2_k5.4
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./config/cmiot_ax18/zn_m2_test_lean.config
